@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yahya Yousef</h1>
-<h3 align="center">A passionate Android & Flutter developer from Jordan</h3>
+<h3 align="center">A passionate Android & Flutter & JAVA developer from Jordan</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/yahya-alborene-7099b4169/](https://www.linkedin.com/in/yahya-alborene-7099b4169/)
 
